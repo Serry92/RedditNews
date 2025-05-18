@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reddit News</string>
+    <string name="label_article_details">Article Details</string>
+    <string name="label_no_desc">No description available for this article. The content might be available on the original source.</string>
+    <string name="label_source">Source: %s</string>
+    <string name="label_no_articles">No articles found</string>
+    <string name="label_article">ARTICLE</string>
+    <string name="cd_back">back</string>
+    <string name="label_kotlin_news">Kotlin News</string>
+</resources>
